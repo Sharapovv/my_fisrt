@@ -7,3 +7,5 @@ add text
 Добавим текст локально
 
 добавили текст в новой ветке mewbranch
+
+change conflice
